@@ -1,6 +1,6 @@
 # 🏗️ Beam Reinforcement Calculation Algorithm (Eurocode 2)
 
-This project implements a fully automated **reinforced concrete beam design** algorithm according to **Eurocode 2 (EN 1992-1-1)** with parameters from the **Finnish National Annex**. It evaluates both **Ultimate Limit State (ULS)** and **Serviceability Limit State (SLS)** performance, including:
+This project implements a fully automated **reinforced concrete beam design under flexural load** algorithm according to **Eurocode 2 (EN 1992-1-1)** with parameters from the **Finnish National Annex**. It evaluates both **Ultimate Limit State (ULS)** and **Serviceability Limit State (SLS)** performance, including:
 
 - ULS bending and shear checks  
 - SLS crack width calculation (Direct method, EC2 Clause 7.3.4)  
